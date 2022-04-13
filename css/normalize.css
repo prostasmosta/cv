@@ -181,8 +181,13 @@ sub {
  * Remove border when inside `a` element in IE 8/9/10.
  */
 
-img {
+.photo {
   border: 0;
+  margin-left: auto;
+  height: 370px;
+  width: 340px;
+  margin-top: 5px;
+  border-radius: 8px;
 }
 
 /**
