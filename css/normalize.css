@@ -182,8 +182,7 @@ sub {
  */
 
 .photo {
-  border: 0;
-  width: 100%;
+  width: 60%;
   margin-top: 5px;
   border-radius: 8px;
 }
